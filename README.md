@@ -29,7 +29,6 @@
                 <p align="center">
                 <img src="./GITHUB_byDREAMYGINGER/Currently_learning.gif" width=400>
                 <br>
-                <br>
                 <p align="center">
                 <img src="./lang_labels_byDREAMYGINGER/CPP.png" width=130;>
                 <img src="./lang_labels_byDREAMYGINGER/HTML.png" width=159;>
@@ -44,11 +43,11 @@
                 <p align="center">
                 <img src="./GITHUB_byDREAMYGINGER/Interested_in_learning.gif" width=400>
                 <br>
-                <br>
                 <p align="center">
                 <img src="./lang_labels_byDREAMYGINGER/JS.png" width=100;>
                 <img src="./lang_labels_byDREAMYGINGER/LUA.png" width=130;>
                 <img src="./lang_labels_byDREAMYGINGER/LUAU.png" width=159;>
+                <br>
                 <img src="./lang_labels_byDREAMYGINGER/Java.png" width=159;>
                 <img src="./lang_labels_byDREAMYGINGER/Python.png" width=100;>                
             </td>
