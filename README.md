@@ -25,7 +25,6 @@
     <thead>
         <tr>
             <td>
-                <br>
                 <p align="center">
                 <img src="./GITHUB_byDREAMYGINGER/Currently_learning.gif" width=400>
                 <br>
@@ -39,7 +38,6 @@
     <tbody>
         <tr>
             <td>
-                <br>
                 <p align="center">
                 <img src="./GITHUB_byDREAMYGINGER/Interested_in_learning.gif" width=400>
                 <br>
