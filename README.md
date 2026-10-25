@@ -1,9 +1,13 @@
 <p align="center"><img src="./GITHUB_byDREAMYGINGER/Top.png">
 
-<table>
+<table align="center">
     <tbody> 
-        <td colspan="2"><h3>
-            &gt; Greetings ☆ I'm Ginnie 
+        <td colspan="2" style="list-style: none;" id="toc">
+            <ul id="toc" align="center">
+                <summary>
+                    <h1>&gt; Greetings ☆ I'm Ginnie</h1>
+                </summary>
+            </ul>
         </td>
         <tr>
             <td><h4> I'm a self-taught computer science peep based in Italy, currently attending senior year at art lyceum.
@@ -18,24 +22,28 @@
 
 <table align="center">
     <tbody>
-        <tr><td colspan="2"><h3><p align="center">
-            ˖ 𑣲 ｡• Tech stack ꪆৎ ⋆｡˖
+        <tr><td colspan="2">
+            <ul id="toc" align="center">
+                <summary>
+                    <h1>˖ 𑣲 ｡• Tech stack ꪆৎ ⋆｡˖</h1>
+                </summary>
+            </ul>
         </td> 
         </tr>
         <tr><td colspan="2"><h3><p align="center">
-            <img src="./GITHUB_byDREAMYGINGER/Currently_learning.png"><br>
-            <h3><p align="center">
-            <img src="./lang_labels_byDREAMYGINGER/CPP.png" width=100;>
-            <img src="./lang_labels_byDREAMYGINGER/HTML.png" width=123;>
-            <img src="./lang_labels_byDREAMYGINGER/CSS.png" width=100;>
+            <img src="./GITHUB_byDREAMYGINGER/Currently_learning.gif" width=400><br>
+            <p align="center">
+            <img src="./lang_labels_byDREAMYGINGER/CPP.png" width=130;>
+            <img src="./lang_labels_byDREAMYGINGER/HTML.png" width=159;>
+            <img src="./lang_labels_byDREAMYGINGER/CSS.png" width=130;>
         </td></tr>
         <tr><td colspan="2"><h3><p align="center">
-            <img src="./GITHUB_byDREAMYGINGER/Willing_to_learn.png"><br>
-            <h3><p align="center">
+            <img src="./GITHUB_byDREAMYGINGER/Interested_in_learning.gif" width=400><br>
+            <p align="center">
             <img src="./lang_labels_byDREAMYGINGER/JS.png" width=100;>
-            <img src="./lang_labels_byDREAMYGINGER/LUA.png" width=123;>
-            <img src="./lang_labels_byDREAMYGINGER/LUAU.png" width=100;>
-            <img src="./lang_labels_byDREAMYGINGER/Java.png" width=100;>
+            <img src="./lang_labels_byDREAMYGINGER/LUA.png" width=130;>
+            <img src="./lang_labels_byDREAMYGINGER/LUAU.png" width=159;>
+            <img src="./lang_labels_byDREAMYGINGER/Java.png" width=159;>
             <img src="./lang_labels_byDREAMYGINGER/Python.png" width=100;>
         </td></tr>
     </tbody>
