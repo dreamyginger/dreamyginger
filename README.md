@@ -25,8 +25,10 @@
     <thead>
         <tr>
             <td>
+                <br>
                 <p align="center">
                 <img src="./GITHUB_byDREAMYGINGER/Currently_learning.gif" width=400>
+                <br>
                 <br>
                 <p align="center">
                 <img src="./lang_labels_byDREAMYGINGER/CPP.png" width=130;>
@@ -41,6 +43,7 @@
                 <br>
                 <p align="center">
                 <img src="./GITHUB_byDREAMYGINGER/Interested_in_learning.gif" width=400>
+                <br>
                 <br>
                 <p align="center">
                 <img src="./lang_labels_byDREAMYGINGER/JS.png" width=100;>
