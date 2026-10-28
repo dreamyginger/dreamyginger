@@ -10,11 +10,21 @@
             </ul>
         </td>
         <tr>
-            <td><h4> I'm a self-taught computer science peep based in Italy, currently attending senior year at art lyceum.
-            <h4>I enjoy turning my ideas into reality throughout coding and art! 𐦍
+            <td><h3> I'm an Italy-based computer science enthusiast, currently attending senior year at art lyceum: I enjoy turning my ideas into reality throughout coding and art! 𐦍
+            <h3>My major interests comprehend:<ul>
+                <li>Minecraft HUDs, UIs, GUIs creation and configs</li>
+                <li>UI & UX in web design & development</li>
+                <li>Learning new languages</li>
+                <li>Scripting minor games</li>
+                </ul>
+            <h3>Beyond code:<ul>
+                <li>Drawing, painting, crochet</li>
+                <li>Playing on NDS & NSwitch</li>
+                <li>Watching TV series & movies</li>
+                </ul>
             </td>
             <td>
-                <img src="./GITHUB_byDREAMYGINGER/Side.png">
+                <img src="./GITHUB_byDREAMYGINGER/Side1.png">
             </td>
         </tr>
     </tbody>
@@ -22,8 +32,11 @@
 
 
 <table align="center">
-    <thead>
+    <tbody>
         <tr>
+            <td rowspan="2">
+                <img src="./GITHUB_byDREAMYGINGER/Side2.png">
+            </td>
             <td>
                 <p align="center">
                 <img src="./GITHUB_byDREAMYGINGER/Currently_learning.gif" width=400>
@@ -34,8 +47,6 @@
                 <img src="./lang_labels_byDREAMYGINGER/CSS.png" width=130;>
             </td>
         </tr>
-    </thead>
-    <tbody>
         <tr>
             <td>
                 <p align="center">
